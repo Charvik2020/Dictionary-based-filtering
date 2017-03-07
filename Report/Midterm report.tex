@@ -1,0 +1,97 @@
+
+\documentclass[journal]{IEEEtran}
+\usepackage[section]{placeins}
+\usepackage{blindtext}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{hyperref}
+
+\ifCLASSINFOpdf
+\else
+\fi
+\hyphenation{Gender Identification}
+
+
+\begin{document}
+	%
+	% paper title
+	\title{Dictionary Based Filtering}
+	
+	\author{\thanks{Dr. Mehul Raval}\thanks{Mr. Vibhav Joshi} Charvik Patel,~\IEEEmembership{1401079},
+		Himanshu Budhia,~\IEEEmembership{1401039},
+		Neel Puniwala,~\IEEEmembership{1401026}, 
+		Maharsh Patel,~\IEEEmembership{14010109}}
+	
+	
+	
+	
+	% make the title area
+	\maketitle
+	
+	
+	\begin{abstract}
+		%\boldmath
+		Digital image processing refers to the process of digital
+		images by means of digital computer. The main application
+		area in digital image processing is to enhance the pictorial
+		data for human interpretation. In image some of
+		the unwanted information is present that will be removed by
+		several preprocessing techniques. Filtering helps to enhance
+		the image by removing noise.Initially By creating Dictionary we will store two form of matrix.now when We add new image in dictionary we don't need to pass image from filter instead we will just Dictionary Learn form the Previous Dictionary and just map into.
+		
+	\end{abstract}
+	\begin{IEEEkeywords}
+		Dictionary Learning,Low-pass filter,Salt-Pepper Noise,Median filter
+	\end{IEEEkeywords}
+	
+	
+	\IEEEpeerreviewmaketitle
+	
+	
+	
+	\section{\textbf{Introduction}}
+		
+	
+	\section{\textbf{Literature review}}
+	\subsection{\textbf{Salt and Pepper Filtering}}
+	Salt-and-pepper noise is a form of noise sometimes seen on images. It presents itself as sparsely occurring white and black pixels. An effective noise reduction method for this type of noise is a median filter.\\
+	  In Median Filter,
+	 The original pixel values and the values replaced by their median are shown side by side below\\
+	\begin{minipage}{\linewidth}
+		\centering
+		\includegraphics[width = 80mm]{1}
+		\captionof{figure}{Median Filter Conversion[1] \label{overflow}}
+	\end{minipage} 
+		
+	From the above illustration it is clear that the pixal value '128' is replaced by the median value 24 and the pixel value '172' is replaced by the median value 31. here the values 128 and 172 are entirely different from their neighboring pixels. when we take the median value,the pixel values which are totally different from their neighboring pixels are replaced by a value equal to the neighboring pixel value. hence Median Filter will reduce salt-pepper noise of image. 
+	
+	\ifCLASSOPTIONcaptionsoff
+	\newpage
+	\fi
+	
+	
+	
+	\section{\textbf{Conclusion}}
+		 
+	
+	
+	
+    \section{\textbf{Future Work}}
+    
+	
+	
+	\begin{thebibliography}{1}
+	\bibitem{IEEEhowto:kopka}
+	“Digital Image Processing”, JAYARAMAN
+	\bibitem{IEEEhowto:kopka}
+	"Median filter", En.wikipedia.org, 2017. [Online]. Available: \url{https://en.wikipedia.org/wiki/Median_filter}. [Accessed: 03- Mar- 2017].
+
+	
+	\end{thebibliography}
+	
+	
+	
+\end{document}
+
+
