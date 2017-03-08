@@ -1,0 +1,25 @@
+Dictionary based filtering -Report 1
+
+With the increasing use of digital images, the methods that can remove noise based on image content and not restrictedly based on statistical properties has been widely extended. The major weakness of dictionary learning methods is that all these methods require a long training process and a very large storage memory for storing features extracted from the training images. The concept of sparse matrix and similarities between samples can be extracted of similar images and adaptive filters can be used for the training process of dictionary based on ideal images. Images can be checked based on its content by implicit optimization of memory usage and image noise can be removed with a minimum loss of stored samples in existing dictionary.
+The sparse image models are very powerful tools for many image restoration and recognition tasks. Sparse image model assumes that most local image patches can be well approximated by a sparse linear combination of basis elements, the so-called atoms. The collection of these elements
+is called a dictionary. A fundamental question is then how to find a dictionary under which an input image can be sparsely modelled.
+Earlier work on designing dictionary for sparse image modelling focuses on the design
+of fixed orthogonal dictionaries, e.g. local discrete cosine transform (DCT), wavelets. These orthogonal dictionaries and their over-complete extensions (e.g. tight frames) remain important tools in many image restoration tasks for their simplicity and efficiency.
+
+The dictionaries can be created adaptive to the input images via some learning process. The basic idea is to learn the dictionary adaptive to the target image so as to achieve better sparsity than the fixed ones. Most existing dictionary learning methods consider an over-complete dictionary and
+formulate the learning process as a minimization problem.
+
+
+Digital image processing refers to the process of digital images by means of digital computer. The main application area in digital image processing is to enhance the pictorial data for human interpretation. In image acquisition some of the unwanted information is present that will be removed by several pre-processing techniques. Filtering helps to enhance the image by removing noise.
+
+From current literature survey, we know that:
+
+a.	High frequency introduces noise in image that decreases image quality and low-pass will smooth the image and reduce noise
+
+b.	 Lowpass effect can be used to calculate the average of a pixel and all of its eight neighbours
+
+c.	Lowpass filtering is convolution that attenuates high frequency of an image while allowing low frequency passing
+
+Lowpass and highpass filters perform convolution between two array sets which are image elements and filtering mask. By this property lowpass and highpass filters are good to use in image transformation.
+
+
