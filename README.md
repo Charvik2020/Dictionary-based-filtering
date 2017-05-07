@@ -26,29 +26,36 @@ to pass image from filter instead we will just Dictionary Learn
 form the Previous Dictionary and just map into.
 
 ## Introduction:
-	Basically the idea of Dictionary based filtering is instead
-of doing classical convolution every time,we directly take
-de–noise image from the dictionary using searching algorithm
-and time after time Learning of dictionary is also done by
-the same algorithm. We are planning to do low pass or high
-pass filtering to de–noise the noisy image. Low pass filter is
-used to remove salt and paper noise while high pass filter is
-used to separate of edges.We use OpenCV libraries and Python
-libraries to implement the low pass filter and to create blocks
-of image.
-Initially we take some training and filter them by using
-classical convolution.Both filtered and non-filtered images are
-divided into blocks which are stored in a dictionary.In the
-dictionary the key is noisy part of the image and the value is
-filtered part of the image.
+- Basically the idea of Dictionary based filtering is instead of doing classical convolution every time,we directly take de–noise image from the dictionary using searching algorithm and time after time Learning of dictionary is also done by the same algorithm. We are planning to do low pass or high pass filtering to de–noise the noisy image. Low pass filter is used to remove salt and paper noise while high pass filter is used to separate of edges.We use OpenCV libraries and Python libraries to implement the low pass filter and to create blocks of image.
+- Initially we take some training and filter them by using classical convolution.Both filtered and non-filtered images are divided into blocks which are stored in a dictionary.In the dictionary the key is noisy part of the image and the value is filtered part of the image.
 
 
 ## Methodology
 ![alt text](https://github.com/Charvik2020/Dictionary-based-filtering/blob/master/Report/Midterm%20Report/2.jpg)
 
+## Algorithm
+```python
+First of all we have to take n x n training image.
+Create m x m blocks.
+Create dictionary using blocks.
+Dictionary:
+	Key - Noisy image
+	value - filtered image
+Search algorithm
+if Nearest Possible Match then
+	Noisy Patch Replaced with this Image
+else
+	Add to Dictionary
+end
+return Final Filtered Image
+```
+
+
 ## Requirements
 - Python 2.7+
-- Anaconda
+- PIL
+- skimage
+- numpy
 - OpenCV
 
 ## Output
