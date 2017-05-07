@@ -1,12 +1,20 @@
-Dictionary-based-filtering
-Group Member:
-	Charvik Patel-1401079
-	Himanshu Budhia-1401039
-	Maharsh Patel-1401109
-	Neel Puniwala-1401024
 
-Abstract:
-	Digital image processing refers to the process of
+## Project Title
+Dictionary Based Filtering
+
+## Member Group - 8
+- Maharsh Patel-1401109
+- Charvik Patel-1401079
+- Neel Puniwala-1401024
+- Himanshu Budhia-1401039
+
+## Mentor's And Teaching Assistant
+- Dr. Mehul raval
+- Vaibhav Joshi 
+
+
+## Abstract
+Digital image processing refers to the process of
 digital images by means of digital computer. The main application
 area in digital image processing is to enhance the pictorial data
 for human interpretation. In image some of the unwanted information
@@ -17,7 +25,7 @@ matrix.now when We add new image in dictionary we don’t need
 to pass image from filter instead we will just Dictionary Learn
 form the Previous Dictionary and just map into.
 
-Introduction:
+## Introduction:
 	Basically the idea of Dictionary based filtering is instead
 of doing classical convolution every time,we directly take
 de–noise image from the dictionary using searching algorithm
@@ -33,5 +41,24 @@ classical convolution.Both filtered and non-filtered images are
 divided into blocks which are stored in a dictionary.In the
 dictionary the key is noisy part of the image and the value is
 filtered part of the image.
+
+
+## Methodology
+![alt text](https://github.com/Charvik2020/Dictionary-based-filtering/blob/master/Report/Midterm%20Report/2.jpg)
+
+## Requirements
+- Python 2.7+
+- Anaconda
+- OpenCV
+
+## Output
+- KSVD
+![alt text](https://github.com/Charvik2020/Dictionary-based-filtering/blob/master/output/KSVD.jpg)
+- On-line Dictionary Learning
+![alt text](https://github.com/Charvik2020/Dictionary-based-filtering/blob/master/output/OnlineDictionaryLearning.jpg)
+
+
+
+
 
 
