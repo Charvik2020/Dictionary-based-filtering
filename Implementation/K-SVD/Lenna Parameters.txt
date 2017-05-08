@@ -1,0 +1,65 @@
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (256, 256)
+Window shape   : (16, 16)
+Window step    : 16
+Resizing shape : (256, 256)
+Sigma          : 10
+Learning ratio : 1
+K-SVD iter.    : 5
+
+Computation time : 45.2815683175 seconds.
+PSNR           : 29.8699247432 dB.
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (256, 256)
+Window shape   : (16, 16)
+Window step    : 16
+Resizing shape : (256, 256)
+Sigma          : 10
+Learning ratio : 1
+K-SVD iter.    : 5
+
+Computation time : 24.5856477997 seconds.
+PSNR           : 29.6833668801 dB.
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (256, 256)
+Window shape   : (16, 16)
+Window step    : 16
+Resizing shape : (256, 256)
+Sigma          : 10
+Learning ratio : 1
+K-SVD iter.    : 5
+
+Computation time : 3.81252936561 seconds.
+PSNR           : 27.9954647307 dB.
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (256, 256)
+Window shape   : (16, 16)
+Window step    : 16
+Resizing shape : (256, 256)
+Sigma          : 10
+Learning ratio : 1
+K-SVD iter.    : 5
+
+Computation time : 180.876302351 seconds.
+PSNR           : 30.7997845312 dB.
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (256, 256)
+Window shape   : (16, 16)
+Window step    : 16
+Resizing shape : (256, 256)
+Sigma          : 10
+Learning ratio : 1
+K-SVD iter.    : 5
+
+Computation time : 37.999261013 seconds.
+PSNR           : 30.2363181949 dB.
