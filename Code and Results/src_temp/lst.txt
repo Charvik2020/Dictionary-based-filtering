@@ -1,0 +1,69 @@
+original_Images\Fig0101(1921 digital image).tif
+original_Images\Fig0102(1922 digital image).tif
+original_Images\Fig0103(1929 digital image Pershing and Foch).tif
+original_Images\Fig0104(Ranger7_1st picture_of_moon).tif
+original_Images\Fig0106(a)(bone-scan-GE).tif
+original_Images\Fig0106(b)(PET_image).tif
+original_Images\Fig0106(c)(cygnusloop-gamma).tif
+original_Images\Fig0106(d)(gamma-Wehe-enhanced).tif
+original_Images\Fig0107(a)(chest-xray-vandy).tif
+original_Images\Fig0107(b)(kidney-original).tif
+original_Images\Fig0107(c)(headCT-Vandy).tif
+original_Images\Fig0107(d)(Cktboard-Lixi).tif
+original_Images\Fig0107(e)(cygnusloop-Xray).tif
+original_Images\Fig0108(a) (corn-fluorescence).tif
+original_Images\Fig0108(b) (smutcorn-fluorescence).tif
+original_Images\Fig0108(c)(cygnusloop-extreme ultraviolet).tif
+original_Images\Fig0109(a)(taxol-anti-cancer agent).tif
+original_Images\Fig0109(b)(cholesterol).tif
+original_Images\Fig0109(c)(microporcessor).tif
+original_Images\Fig0109(d)(nickel oxide thin film).tif
+original_Images\Fig0109(e)(surface of audio CD).tif
+original_Images\Fig0109(f)(organic superconductor).tif
+original_Images\Fig0110(1)(WashingtonDC Band1).TIF
+original_Images\Fig0110(2)(WashingtonDC Band2).TIF
+original_Images\Fig0110(3)(WashingtonDC Band3).TIF
+original_Images\Fig0110(4)(WashingtonDC Band4).TIF
+original_Images\Fig0110(5)(WashingtonDC Band5).TIF
+original_Images\Fig0110(6)(WashingtonDC Band6).TIF
+original_Images\Fig0110(7)(WashingtonDC Band7).TIF
+original_Images\Fig0111(katrina_2005_08_29_NOAA).tif
+original_Images\Fig0112(0)(small-gray-map-americas).tif
+original_Images\Fig0112(1)(top-canada).tif
+original_Images\Fig0112(2)(2nd-from-top-USA).tif
+original_Images\Fig0112(3)(3rd-from-top-Central-Amer).tif
+original_Images\Fig0112(4)(4th-from-top-South-Amer).tif
+original_Images\Fig0113(0)(small-gray-map-europe-russia-etc).tif
+original_Images\Fig0113(1)(left-africa-europe).tif
+original_Images\Fig0113(2)(center-russia).tif
+original_Images\Fig0113(3)(right-South-East-Asia).tif
+original_Images\Fig0113(4)(right-bottom-Australia).tif
+original_Images\Fig0114(a)(cktboard).tif
+original_Images\Fig0114(b)(pills).tif
+original_Images\Fig0114(c)(bottles).tif
+original_Images\Fig0114(d)(bubbles).tif
+original_Images\Fig0114(e)(cereal).tif
+original_Images\Fig0114(f)(lens-Perceptics).tif
+original_Images\Fig0115(a)(thum-print-loop).tif
+original_Images\Fig0115(b)(100-dollars).tif
+original_Images\Fig0115(c)(Korea-Plate).tif
+original_Images\Fig0115(d)(Mexico-Plate).tif
+original_Images\Fig0116(Radar_Tibet_Mountains-highres).tif
+original_Images\Fig0117(a)(MRI-of-knee-Univ-Mich).tif
+original_Images\Fig0117(b)(MRI-spine1-Vandy).tif
+original_Images\Fig0118(a)(crabpulsar-gamma).tif
+original_Images\Fig0118(b)(crabpulsar-xray).tif
+original_Images\Fig0118(c)(crabpulsar-optical).tif
+original_Images\Fig0118(d)(crabpulsar-infrared).tif
+original_Images\Fig0118(e)(crabpulsar-radio).tif
+original_Images\Fig0119(Seismic-Marmousi_img).tif
+original_Images\Fig0120(a)(ultrasound-fetus1).tif
+original_Images\Fig0120(b)(ultrasound-fetus2).tif
+original_Images\Fig0120(c)(ultrasound-tharoid structures).tif
+original_Images\Fig0120(d)(ultrasound-muscle-layers-with-lesion).tif
+original_Images\Fig0121(a)(tungsten_flmt).tif
+original_Images\Fig0121(b)(blown_ic_hr).tif
+original_Images\Fig0122(a)(fractal-iris).tif
+original_Images\Fig0122(b)(fractal-moonscape).tif
+original_Images\Fig0122(c)(skull).tif
+original_Images\Fig0122(d)(lung).tif
