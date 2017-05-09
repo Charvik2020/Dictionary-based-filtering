@@ -31,7 +31,9 @@ form the Previous Dictionary and just map into.
 
 
 ## Methodology
-![Output](https://github.com/Charvik2020/Dictionary-based-filtering/blob/master/Report/Midterm%20Report/2.jpg)
+![Output](https://raw.githubusercontent.com//Charvik2020/Dictionary-based-filtering/blob/master/Report/Midterm%20Report/2.jpg)
+
+
 
 ## Algorithm
 ```python
@@ -60,9 +62,9 @@ return Final Filtered Image
 
 ## Output
 - KSVD
-![Output](https://github.com/Charvik2020/Dictionary-based-filtering/blob/master/output/KSVD.jpg)
+![Output](https://raw.githubusercontent.com//Charvik2020/Dictionary-based-filtering/blob/master/output/KSVD.jpg)
 - On-line Dictionary Learning
-![Output](https://github.com/Charvik2020/Dictionary-based-filtering/blob/master/output/OnlineDictionaryLearning.jpg)
+![Output](https://raw.githubusercontent.com//Charvik2020/Dictionary-based-filtering/blob/master/output/OnlineDictionaryLearning.jpg)
 
 
 
