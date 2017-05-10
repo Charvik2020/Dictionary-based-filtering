@@ -63,12 +63,39 @@ return Final Filtered Image
 ## Output
 - KSVD
 <img src="https://github.com//Charvik2020/Dictionary-based-filtering/raw/master/output/KSVD.jpg" alt="https://github.com//Charvik2020/Dictionary-based-filtering/raw/master/output/KSVD.jpg">
-- On-line Dictionary Learning
-<img src="https://github.com//Charvik2020/Dictionary-based-filtering/raw/master/output/OnlineDictionaryLearning.jpg" alt="https://github.com//Charvik2020/Dictionary-based-filtering/raw/master/output/OnlineDictionaryLearning.jpg">
+
+- on-line Dictionary Learning
+<img src="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Report/FinalTerm%20Report/OnlineDictionaryLearning.jpg" alt="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Report/FinalTerm%20Report/OnlineDictionaryLearning.jpg">
+
+<img src="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Report/FinalTerm%20Report/OnlineDictionaryLearningCopy.jpg" alt="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Report/FinalTerm%20Report/OnlineDictionaryLearningCopy.jpg">
 
 
+- our own approach Dictionary Based Filtering
+<img src="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Code%20and%20Results/Analysis/imageanalysis/output1.jpg" alt="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Code%20and%20Results/Analysis/imageanalysis/output1.jpg">
 
+<img src="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Code%20and%20Results/Analysis/imageanalysis/output2.jpg" alt="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Code%20and%20Results/Analysis/imageanalysis/output2.jpg">
 
+<img src="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Code%20and%20Results/Analysis/imageanalysis/Timeanalysis.jpg" alt="https://github.com/Charvik2020/Dictionary-based-filtering/raw/master/Code%20and%20Results/Analysis/imageanalysis/Timeanalysis.jpg">
 
-
-
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Dimension(m)<br></th>
+    <th class="tg-yw4l">Thresold<br></th>
+    <th class="tg-yw4l">Error</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">50 x 50<br></td>
+    <td class="tg-yw4l">175</td>
+    <td class="tg-yw4l">9.89 %<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">75 x 75<br></td>
+    <td class="tg-yw4l">140</td>
+    <td class="tg-yw4l">9.19%<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">100 x 100<br></td>
+    <td class="tg-yw4l">90</td>
+    <td class="tg-yw4l">3.5%</td>
+  </tr>
+</table>
